@@ -1,0 +1,81 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+tr {
+    text-align: center;
+}
+
+.align-left {
+    text-align: left;
+}
+
+.swing-detail {
+    margin-top: 2rem;
+}
+
+.total-score-title {
+    text-align: right;
+}
+
+.total-score {
+    text-align: left;
+}
+
+.comment-title {
+    text-align: start;
+}
+
+.comment {
+    text-align: start;
+    margin-bottom: 1rem;
+}
+
+.score-detail {
+    margin-top: 0.5rem;
+}
+
+.std-title {
+    margin-top: 1rem;
+}
+
+.btn-switch {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.switchBtn{
+    width: 125px;
+    margin-top: 1rem;
+}
+
+.none {
+    display: none;
+}
+
+.color-red {
+    color: red;
+}
+
+.color-green {
+    color: green;
+}
+
+.carousel-slide{
+    width: 400px;
+    height: 700px;
+    overflow: hidden;
+    position: relative;
+    margin: auto;
+}
+
+.videoContainer1{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
